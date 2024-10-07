@@ -1,0 +1,14 @@
+C:\Users\Rog\source\repos\PROJECT.BlackJack\PROJECT.BlackJack\bin\Debug\net8.0\PROJECT.BlackJack.exe
+C:\Users\Rog\source\repos\PROJECT.BlackJack\PROJECT.BlackJack\bin\Debug\net8.0\PROJECT.BlackJack.deps.json
+C:\Users\Rog\source\repos\PROJECT.BlackJack\PROJECT.BlackJack\bin\Debug\net8.0\PROJECT.BlackJack.runtimeconfig.json
+C:\Users\Rog\source\repos\PROJECT.BlackJack\PROJECT.BlackJack\bin\Debug\net8.0\PROJECT.BlackJack.dll
+C:\Users\Rog\source\repos\PROJECT.BlackJack\PROJECT.BlackJack\bin\Debug\net8.0\PROJECT.BlackJack.pdb
+C:\Users\Rog\source\repos\PROJECT.BlackJack\PROJECT.BlackJack\obj\Debug\net8.0\PROJECT.BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rog\source\repos\PROJECT.BlackJack\PROJECT.BlackJack\obj\Debug\net8.0\PROJECT.BlackJack.AssemblyInfoInputs.cache
+C:\Users\Rog\source\repos\PROJECT.BlackJack\PROJECT.BlackJack\obj\Debug\net8.0\PROJECT.BlackJack.AssemblyInfo.cs
+C:\Users\Rog\source\repos\PROJECT.BlackJack\PROJECT.BlackJack\obj\Debug\net8.0\PROJECT.BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\Rog\source\repos\PROJECT.BlackJack\PROJECT.BlackJack\obj\Debug\net8.0\PROJECT.BlackJack.dll
+C:\Users\Rog\source\repos\PROJECT.BlackJack\PROJECT.BlackJack\obj\Debug\net8.0\refint\PROJECT.BlackJack.dll
+C:\Users\Rog\source\repos\PROJECT.BlackJack\PROJECT.BlackJack\obj\Debug\net8.0\PROJECT.BlackJack.pdb
+C:\Users\Rog\source\repos\PROJECT.BlackJack\PROJECT.BlackJack\obj\Debug\net8.0\PROJECT.BlackJack.genruntimeconfig.cache
+C:\Users\Rog\source\repos\PROJECT.BlackJack\PROJECT.BlackJack\obj\Debug\net8.0\ref\PROJECT.BlackJack.dll
